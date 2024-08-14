@@ -14,4 +14,4 @@ During this program, under the guidance of our mentors, we will work on topics r
 
 - [Alperen Garip](https://github.com/AlperenGarip)
 - [Yusuf Onur Öksüz](https://github.com/yusufonuroksuz)
-- **Kaan Yolcu**
+- [Kaan Yolcu](https://github.com/kaanyolcu22)
