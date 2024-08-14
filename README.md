@@ -5,9 +5,9 @@ This is the repository for LLM Team-2 from the 2024 Summer Research Internship P
 
 During this program, under the guidance of our mentors, we will work on topics related to Large Language Models, such as:
 
-- Engage in advanced research focusing on the interactions between multiple AI agents.
-- Utilize cutting-edge frameworks like LangChain and Langgraph to develop models that simulate and predict complex behaviors in varied environments.
-- Explore the integration of these models into broader AI systems to enhance decision-making processes. 
+- Engaging in advanced research focusing on the interactions between multiple AI agents.
+- Utilizing cutting-edge frameworks like LangChain and Langgraph to develop models that simulate and predict complex behaviors in varied environments.
+- Exploring the integration of these models into broader AI systems to enhance decision-making processes. 
 
 
 ## Team Members
