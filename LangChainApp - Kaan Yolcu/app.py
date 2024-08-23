@@ -22,7 +22,7 @@ Marşın kamuoyunda algılanması ve Rus halkında kabulü tartışmalıdır. Ba
 """
 
 summary_template_1 = """
-Please provide a concise summary of the following text in English:
+Please provide a detailed summary of the following text in English:
 {text}
 """
 
